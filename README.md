@@ -6,3 +6,8 @@ Automate deployment application
 - Staging
 - Development
 - production
+
+
+# Feature
+- Node Management
+- Node Status check - docker swarm
