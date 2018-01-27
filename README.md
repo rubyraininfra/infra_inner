@@ -14,3 +14,9 @@ Automate deployment application
 # Feature
 - Node Management
 - Node Status check - docker swarm
+
+
+# Depends
+- Docker
+- Docker swarm - Node Management
+- glusterFS - BlockStorage
