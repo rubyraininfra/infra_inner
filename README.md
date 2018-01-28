@@ -4,6 +4,9 @@ Automate deployment application
 # Purpose
 - easy to make stable application environment 
 
+# Where to use
+- Cloud Provider ( Linode , Google cloud platform )
+- Real servers with Openstack
 
 # Deploy to
 - Staging
@@ -19,4 +22,4 @@ Automate deployment application
 # Depends
 - Docker
 - Docker swarm - Node Management
-- glusterFS - BlockStorage
+- xtreemfs blockstorage 
